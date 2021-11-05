@@ -44,3 +44,7 @@ It can be implemented using (or atop) any of these languages -
     - more number of fields (based on a function)
 
 - The collation of data stores is a larger data store; can be as tiny or as large depending on the use case; well, generally huge in case of distributed systems
+
+- The objects are open in the sense the data fields and functions within the objects can be expanded, modified or contracted at any time; the overseer (yet another object) exercises control on what goes in/out/modified by way of security/control features (rules - yet another object)
+ 
+- Objects behave like threads or processes when called upon to do something based on the functions it has (added from time to time)
