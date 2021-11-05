@@ -13,6 +13,7 @@ It can be implemented using (or atop) any of these languages -
 6. Scala
 7. Ruby
 8. Python
+9. Lua
 
 *Note*: A language that provides metaprogramming feature is recommended
 
