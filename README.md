@@ -1,5 +1,5 @@
 # ds
-ds is the programming language geared for distributed systems
+ds is the programming language geared for __distributed systems__
 
 ## laal
 lal stands for "language atop (or using) another language"
