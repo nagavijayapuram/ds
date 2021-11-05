@@ -2,7 +2,7 @@
 ds is the programming language geared for __distributed systems__
 
 ## laal
-lal stands for "language atop (or using) another language"
+laal stands for "language atop (or using) another language"
 
 It can be implemented using (or atop) any of these languages -
 1. C/C++
