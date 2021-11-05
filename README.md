@@ -15,7 +15,7 @@ It can be implemented using (or atop) any of these languages -
 8. Python
 9. Lua
 
-*Note*: A language that provides metaprogramming feature is recommended
+*Note*: A language that provides built-in metaprogramming features is highly recommended
 
 ## Features
 - () is the root object
