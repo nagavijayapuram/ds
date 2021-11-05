@@ -49,3 +49,7 @@ It can be implemented using (or atop) any of these languages -
 - The objects are open in the sense the data fields and functions within the objects can be expanded, modified or contracted at any time; the overseer (yet another object) exercises control on what goes in/out/modified by way of security/control features (rules - yet another object)
  
 - Objects behave like threads or processes when called upon to do something based on the functions it has (added from time to time)
+
+- o.listen(9876) # this is a special case wherein the object works like a web server 
+- p = o.listen(-1) # as above; first available free port is used
+
