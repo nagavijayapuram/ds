@@ -15,7 +15,7 @@ It can be implemented using (or atop) any of these languages -
 8. Python
 9. Lua
 
-*Note*: A language that provides built-in metaprogramming features is highly recommended
+*Note*: A language that provides built-in metaprogramming features is highly recommended; __See the "For Implementors" section below__
 
 ## Features
 - () is the root object
@@ -53,3 +53,8 @@ It can be implemented using (or atop) any of these languages -
 - o.listen(9876) # this is a special case wherein the object works like a web server 
 - p = o.listen(-1) # as above; first available free port is used
 
+## For Implementors
+
+This ruby snippet (levearging metaprogramming) says it all (for adding the methods enumerated above) -
+
+![image](https://user-images.githubusercontent.com/93483781/140597804-48614718-1075-45fa-abd7-9367e27482ce.png)
