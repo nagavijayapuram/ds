@@ -58,3 +58,7 @@ It can be implemented using (or atop) any of these languages -
 This ruby snippet (levearging metaprogramming) says it all (for adding the methods enumerated above) -
 
 ![image](https://user-images.githubusercontent.com/93483781/140597804-48614718-1075-45fa-abd7-9367e27482ce.png)
+
+Output of above program -
+
+![image](https://user-images.githubusercontent.com/93483781/140597910-6fad027d-dedb-49e9-b6d6-4babd8f26971.png)
